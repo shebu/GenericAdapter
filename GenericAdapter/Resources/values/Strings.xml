@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="Add_a_motorcycle_name">Add a motorcycle name here</string>
+	<string name="Save">Save</string>
+	<string name="Id">Id</string>
+	<string name="Name">Name</string>
+	
+</resources>
